@@ -1877,7 +1877,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2047915911}
         m_TargetAssemblyTypeName: InfoController, Assembly-CSharp
-        m_MethodName: OnContinue
+        m_MethodName: OnPatentClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
